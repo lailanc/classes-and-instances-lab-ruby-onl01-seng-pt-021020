@@ -1,2 +1,2 @@
 class Dog
-fido.
+fido=dog.new
